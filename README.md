@@ -1,8 +1,7 @@
-# primeirof_3t
-#terceiro trimestre
+# Terceiro Trimestre
 
-##identificaçao
-Rafaela Leal Benevento N:29
+## Identificação
+rafaela leal - Nr. 29
 
-##conteudo
-HTML, CSS e Jasvas script
+## Conteúdo
+HTML, CSS e javaScript
