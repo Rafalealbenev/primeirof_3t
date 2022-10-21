@@ -1,7 +1,6 @@
 # Terceiro Trimestre
 
-## Identificação
-rafaela leal - Nr. 29
+## Rafaela Leal - N°29
 
-## Conteúdo
-HTML, CSS e javaScript
+## Conteúdo 
+HTML, CSS e javascript
