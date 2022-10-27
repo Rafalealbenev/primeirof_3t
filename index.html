@@ -6,13 +6,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>1° F</title>
     <script src="estudo.js"></script>
+    <link rel="stylesheet" href="geral.css">
 </head>
+
 <body>
+    <div class="calculadora">
+        <div id="sptotal">
+            <span id="total">total: 0,00</span>
+        </div>
 
    Capital: <input id="valor" type="text"><br>
    Juros mensais: <input id="juros" type="text"><br>
    Nr. meses: <input id="meses" type="text"><br>
-   <button onclick="total()">Enviar</button>
+   <button onclick="total()">Enviar</button><br>
+   <div id="spMes">
+    <span id="mes">meses: 0,00</span>
+</div>
+
+
+</div>
 
    <br><br><br><br><br><br>
    <span id="result"> Resultado: 0,00</span><br>
