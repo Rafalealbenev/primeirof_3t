@@ -9,3 +9,15 @@
     padding: 3px;
     width: 200px;
 }
+.calcF {
+    display: none;
+}
+#input-calcF{
+    display: none;
+}
+h5{
+   color: rgb(125, 221, 176);
+}
+#input-calcF:checked + .calculadora .calcF {
+    display: block;
+}
